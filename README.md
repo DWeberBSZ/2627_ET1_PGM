@@ -1,4 +1,4 @@
-# Unterrichtsmaterialien für das Fach Programmierung (25/26)
+# Unterrichtsmaterialien für das Fach Programmierung (26/27)
 
 Herzlich Willkommen auf dem github-Repository für das Fach Programmierung an der Technikerschule Neumarkt!
 
@@ -45,7 +45,7 @@ Anschließend müssen Sie den lokalen Ordner mit dem github Repository in der Cl
 * Laden Sie die Dateien aus github erstmalig herunter: `Rechtsklick im neuen Ordner > Open Git Bash here`
 * Geben Sie den Git-Befehl zum erstmaligen Herunterladen in die Konsole ein:
 
-`git clone https://github.com/DWeberBSZ/2526_ET1_PGM.git`
+`git clone https://github.com/DWeberBSZ/2627_ET1_PGM.git`
 
 ## Workflow im Unterricht
 ![image](https://github.com/user-attachments/assets/b636b7b5-403a-45db-9eaa-3b0657a33bbb)

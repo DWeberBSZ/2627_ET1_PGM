@@ -50,21 +50,7 @@ strecke = "10km"
 print("URKUNDE – Neumarkter Stadtlauf")
 print("Startnummer :", startnummer)
 ```
-
-Überleg **vor** dem Start: Was wird ausgegeben? Dann ausführen. **Ergänze danach selbst** die
-drei Zeilen für Name, Jahrgang und Strecke, bis der Kopf aussieht wie auf der Urkunde vorne.
-
-Jetzt eine Änderung nach der anderen — jeweils erst überlegen, dann ausführen:
-
-1. Setze den Jahrgang auf `2001`. Welche Zeilen der Ausgabe ändern sich, welche nicht?
-2. Ergänze `zielzeit_minuten = 73.1` und gib den Wert als letzte Zeile mit aus.
-3. Schreibe `startnummer = "847"` — mit Anführungszeichen — und ergänze
-   `print("Nächste :", startnummer + 1)`. Was passiert, und **warum**? Als Kommentar dazuschreiben.
-
-> **Hilfe W1**
-> **Brauchst du:** `=` (Wert ablegen) · `print(...)` (ausgeben) · `#` (Kommentar)
-> **Tipp:** In `print` trennt ein **Komma** die Teile — Text in Anführungszeichen, Variablen ohne.
-> Bei Nummer 3: Schau auf die letzte Zeile der Fehlermeldung.
+Machen wir zusammen.
 
 ### W2 Der Kopf deiner Urkunde
 

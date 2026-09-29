@@ -3,8 +3,7 @@
 **Programmieren ET1 · 29.09.2026**
 **Lernsituation:** Neumarkter Stadtlauf — Auftrag 3
 
-Heute hat zwei Hälften. **Teil 1** ist der Kopf der Urkunde: Erst wenn er bei allen läuft, darf
-die Karte auf „Fertig“. **Teil 2** ist die nächste Karte: die Nettozeit.
+Heute hat zwei Hälften. **Teil 1** ist der Kopf der Urkunde. **Teil 2** ist die nächste Karte: die Nettozeit.
 
 Lege einen Ordner `Meine Programme\03_Operatoren` an und speichere jede Aufgabe als eigene Datei.
 Starten wie gewohnt: Konsole im Ordner öffnen, `python w1_sofia.py`.
@@ -12,9 +11,7 @@ Starten wie gewohnt: Konsole im Ordner öffnen, `python w1_sofia.py`.
 Unter jeder Aufgabe steht ein **Hilfe**-Kasten: was du dafür brauchst und ein Tipp. Erst selbst
 probieren, dann hineinschauen.
 
-**Im Buch nachlesen:** Kofler, Kap. 3 „Operatoren", S. 65–73 — dort stehen `//` und `%`.
-
-Das Blatt liegt auch im git der Klasse: <https://bycs.link/pggit>
+**Teil 2: Im Buch nachlesen:** Kofler, Kap. 3 „Operatoren", S. 65–73 — dort stehen `//` und `%`.
 
 ---
 

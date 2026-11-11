@@ -13,4 +13,4 @@ HINWEIS: Berechnen Sie ausschließlich die POTENZGRÖßEN 1*1, 2*2, 3*3, ... bis
 
 Zeit: 20 Minuten, Einzelarbeit.
 """
-    
+
